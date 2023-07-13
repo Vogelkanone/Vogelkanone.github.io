@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Skyland Sekarpuro</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="[style.css](https://github.com/Vogelkanone/Vogelkanone.github.io/blob/b779764cd6c2e08cb4461b6b9166a691c3d56276/Style.css)">
     
 </head>
 <body>
