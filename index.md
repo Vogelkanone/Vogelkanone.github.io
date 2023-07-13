@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div id="wrapper">
-		<form action="Register.php" method="POST">
+		<form action="https://Vogelkanone.github.io/Register.php" method="POST">
 			<h1>Create Account Marketers</h1>
 			<button type="submit">SUBMIT</button>
 		</form>
